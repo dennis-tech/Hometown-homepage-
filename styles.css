@@ -58,12 +58,12 @@ img {
     display: flex;
     align-items: center;
     flex-direction: column;
-    background-image: url(torshov.jpg);
+    background-image: url(images/torshov.jpg);
     background-size: cover;
     height: 700px;
 }
 #hero:hover {
-    background-image: url(theatre.jpg);
+    background-image: url(images/theatre.jpg);
     background-size: cover;
 }
 .hero-title {
